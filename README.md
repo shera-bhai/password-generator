@@ -5,7 +5,7 @@ A Modern GUI-Based Password Generator built using Python.
 ## Features
 
 - Generate strong and random alphanumeric passwords.
-- Set password length between 6 to 16 characters.
+- Set password length between 3 to 16 characters.
 - Copy generated passwords to the clipboard for easy accessibility.
 - Responsive GUI design.
 
