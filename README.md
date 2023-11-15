@@ -45,9 +45,9 @@ A Modern GUI Password Generator built using Python.
 
 ## Usage
 
-1. Adjust the password length using the slider.
+1. Adjust the password length using the drop-down menu.
 2. Click the "Generate Password" button to create a new random password.
-3. Click the "Copy to Clipboard" button to copy the generated password.
+3. Click the "Copy Password" button to copy the generated password.
 4. Paste the password into your desired application or website.
 
 ## Contributing
