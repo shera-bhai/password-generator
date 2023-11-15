@@ -1,6 +1,6 @@
-# GUI-Based Password Generator
+# Modern GUI Password Generator
 
-A Modern GUI-Based Password Generator built using Python.
+A Modern GUI Password Generator built using Python.
 
 ## Features
 
